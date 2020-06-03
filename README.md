@@ -1,4 +1,8 @@
-# sallefy-webapp
+# Sallefy webapp
+
+Frontend app application for Sallefy: https://github.com/arnaugarcia/sallefy
+
+Sallefy is a music platform application generated using JHipster 6.6.0.
 
 ## Project setup
 ```
@@ -18,6 +22,18 @@ yarn build
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Run your unit tests
+
+```
+yarn run test:unit
+```
+
+### Run your end-to-end tests
+
+```
+yarn run test:e2e
 ```
 
 ### Customize configuration
